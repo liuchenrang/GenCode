@@ -1,6 +1,6 @@
 <?php
 
-namespace sd\smk\generator\command;
+namespace TpGenerator\Command;
 
 use RuntimeException;
 use think\console\Command;
